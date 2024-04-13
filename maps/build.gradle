@@ -1,5 +1,0 @@
-
-sourceSets.main.studentJava.files = [
-        'maps/ArrayMap.java',
-        'maps/ChainedHashMap.java',
-]
